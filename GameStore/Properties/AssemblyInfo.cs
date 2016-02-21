@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GameStore")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("deaidko")]
 [assembly: AssemblyProduct("GameStore")]
-[assembly: AssemblyCopyright("© , 2016")]
+[assembly: AssemblyCopyright("©LOL , 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
